@@ -24,6 +24,6 @@ This can be repeated to append multiple values. Alternatively multiple values ca
 
 ```
 dtoverlay=append_cmdline
-dtparam=append=append=video=HDMI-A-1:1920x540@60
-dtparam=append=append=video=HDMI-A-2:1920x540@60
+dtparam=append=video=HDMI-A-1:1920x540@60
+dtparam=append=video=HDMI-A-2:1920x540@60
 ```
